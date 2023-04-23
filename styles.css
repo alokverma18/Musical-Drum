@@ -1,6 +1,7 @@
 body {
   text-align: center;
-  background-color: #000000;
+  background-image: url('images/d.jpg');
+  background-size: cover;
 }
 
 h1 {
@@ -13,6 +14,7 @@ h1 {
 footer {
   color: #ffffff;
   font-family: sans-serif;
+  text-align: end;
 }
 
 .w {
@@ -44,7 +46,7 @@ footer {
 }
 
 .set {
-  margin: 10% auto;
+  margin: 10% auto 13.5%;
 }
 
 .game-over {
